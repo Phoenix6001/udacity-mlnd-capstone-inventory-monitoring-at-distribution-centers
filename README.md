@@ -24,7 +24,11 @@ The AWS execution role used for the project should have the following access:
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Pytorch](https://pytorch.org/)
-
+## Directory structure
+- [docs](https://github.com/Phoenix6001/udacity-mlnd-capstone-inventory-monitoring-at-distribution-centers/tree/main/docs): Contains the project [proposal](https://github.com/Phoenix6001/udacity-mlnd-capstone-inventory-monitoring-at-distribution-centers/blob/main/docs/proposal.pdf) and [report](https://github.com/Phoenix6001/udacity-mlnd-capstone-inventory-monitoring-at-distribution-centers/blob/main/docs/report.pdf).
+- [screenshots](https://github.com/Phoenix6001/udacity-mlnd-capstone-inventory-monitoring-at-distribution-centers/tree/main/screenshots): Contains important screenshots taken throughout the project.
+- [sagemaker.html](https://github.com/Phoenix6001/udacity-mlnd-capstone-inventory-monitoring-at-distribution-centers/blob/main/sagemaker.html): Exported Notebook.
+- [sagemaker.ipynb](https://github.com/Phoenix6001/udacity-mlnd-capstone-inventory-monitoring-at-distribution-centers/blob/main/sagemaker.ipynb): Python notebook file.
 ## Project Set Up and Installation
 This project was developed and tested AWS SageMaker. It was created from a starter file provided by udacity [here](https://github.com/udacity/nd009t-capstone-starter/tree/master).
 
